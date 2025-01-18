@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django and Flutter development.<br>👯 I’m looking to collaborate on social media apps.<br>🤝 I’m looking for help with developing a robust social media app.<br>🌱 I’m currently learning to develop an app with Django and Flutter.<br>⚡ Fun fact: I am a super human, and a lover of humor.
+🔭 I’m currently working on Python, Django and Kotlin Android Mobile Apps development.<br>👯 I’m looking to collaborate on social media apps.<br>🌱 I’m currently learning to develop apps with Django and Kotlin.<br>⚡ Fun fact: I am a super human, and a lover of humor.
 
 
 # 💻 Tech Stack:
