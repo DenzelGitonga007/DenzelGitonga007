@@ -12,7 +12,7 @@ I also train and mentor developers, helping them move from fundamentals to **pro
 - 🔧 Building **full-stack web systems** (Django, MERN, Laravel)
 - 🅿️ Developing a **robust parking system-- Uber and Bolt kind**, a Laravel-based parking management system
 - 🤖 Business process **automation** with Power Automate & Python
-- 👨‍🏫 Delivering **full-stack web development training** (HTML → React → Node → Databases)
+- 👨‍🏫 Delivering **full-stack web development training** (Django, Laravel, MERN Stack: HTML → React → Node → Databases)
 - ☁️ Deploying and managing applications on **AWS, Azure & Google Cloud**
 
 ---
